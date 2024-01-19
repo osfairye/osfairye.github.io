@@ -5,8 +5,9 @@ date:   2016-07-02 11:45:42 -0500
 categories: animism holocene
 ---
 
-<p class="p1 intro">A friend of mine once described the 1992 children’s movie <i><a href="https://en.wikipedia.org/wiki/FernGully:_The_Last_Rainforest" target="_blank">Ferngully</a></i> as the perfect storm of nineties children’s animation and early ecocritical film consciousness. The film, for those of you who never saw it, has a relatively strong environmental message for a children's movie, and an impressive voice actor cast featuring not only Robin Williams, but also a singing Tim Curry in the role of the film’s villain “Hexxus”: a primordial creature of ooze and malice.</p>
-<p class="p1">In the film, a group of human forestry workers are driving a clear-cutting machine called the “The Leveler” to clearcut a rainforest. I've always found it fascinating that in this scene of <em>Ferngully</em>, before Hexxus is released from his prison, the script of the movie specifically has human characters speaking of the labour practices of their employers and fellow employees. Labour and environmental destruction are intrinsically tied to the machine, and the humans driving The Leveller set the stage for Hexxus to arise. The most chilling—or thrilling, depending on your mood and how exciting you find Tim Curry’s singing voice—scene in the film is the musical number after The Leveller destroys Hexxus' prison, an ancient dead tree where he'd been previously entombed by the magic of the forest, and set him free:</p>
+A friend of mine once described the 1992 children’s movie <i><a href="https://en.wikipedia.org/wiki/FernGully:_The_Last_Rainforest" target="_blank">Ferngully</a></i> as the perfect storm of nineties children’s animation and early ecocritical film consciousness. The film, for those of you who never saw it, has a relatively strong environmental message for a children's movie, and an impressive voice actor cast featuring not only Robin Williams, but also a singing Tim Curry in the role of the film’s villain “Hexxus”: a primordial creature of ooze and malice.
+
+In the film, a group of human forestry workers are driving a clear-cutting machine called the “The Leveler” to clearcut a rainforest. I've always found it fascinating that in this scene of <em>Ferngully</em>, before Hexxus is released from his prison, the script of the movie specifically has human characters speaking of the labour practices of their employers and fellow employees. Labour and environmental destruction are intrinsically tied to the machine, and the humans driving The Leveller set the stage for Hexxus to arise. The most chilling—or thrilling, depending on your mood and how exciting you find Tim Curry’s singing voice—scene in the film is the musical number after The Leveller destroys Hexxus' prison, an ancient dead tree where he'd been previously entombed by the magic of the forest, and set him free:
 
 <blockquote>
 <p class="p1">Oil and grime, poison sludge
@@ -20,6 +21,7 @@ With the destruction of this worthless jungle land
 And what a beautiful machine they have provided
 To slice a path of doom with my foul breath to guide it</p>
 </blockquote>
+
 <p class="p1">Hexxus' song "Toxic Love" describes his delights in the ingenuity of man-made destruction. Thanks to the fuel and oil in The Leveler, Hexxus is able to regain his former might in record time. With human help, he is then able to go on a rampage of destruction against the forests and all its residents within.</p>
 <img class=" size-full wp-image-13160 aligncenter" src="https://godsandradicals.files.wordpress.com/2016/07/anigif_enhanced-9452-1413399950-1.gif" alt="anigif_enhanced-9452-1413399950-1" width="480" height="295" />
 <br><small>GIF: Hexxus discovering the innards of The Leveler</small>
