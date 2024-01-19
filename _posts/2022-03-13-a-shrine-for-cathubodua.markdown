@@ -7,15 +7,13 @@ categories: blog poetry
 
 There are few things I love more than taking a beautiful, decorated wooden box, and hiding treasures inside, much like a magpie might. Perhaps this is my Catholic upbringing finally shining through me with this little project. I feel proud to share with you all my writing shrine to Cathubodua.
 
-![](https://osfairy.files.wordpress.com/2022/03/img_7229-edited.png)
-_A photo of my wooden shrine box holding a crow skull dedicated to Cathubodua._
+![A photo of my wooden shrine box holding a crow skull dedicated to Cathubodua.](https://i.imgur.com/DjLy9mr.png)
 
 For those of you who do not know me well yet, hello, yes, hi, I love books and writing. Welcome. You may be wondering about the unlikely combination of myself, writing and Cathubodua. Indeed, the Crow Battle Goddess took me incredibly by surprise when she revealed herself last fall.
 
 For nearly two decades, I wondered about the crows, ravens, and blue jays that kept showing up throughout my childhood. I brushed aside frankly unbelievable coincidences because nothing quite felt right. I sometimes wondered if I was being compelled by The Mórrigan — or even by Raven. But for decades there was only a sort of nebulous silence when I checked in. So, I waited — and waited — until one faithful day, when I was idly enjoying a jaunt through Wikipédia, I stumbled upon the page of the Gaulish battle goddess. 
 
-![](https://osfairy.files.wordpress.com/2022/03/crow2.png?w=1024)
-_A photo of three tarot cards from Lucia Mattioli’s Fairy Lights deck: the three of pentacles, the six of wands, and the 3 of wands._
+![A photo of three tarot cards from Lucia Mattioli’s Fairy Lights deck: the three of pentacles, the six of wands, and the 3 of wands.](https://i.imgur.com/FiMilIc.png)
 
 There was a certain, you could say, escalation that occurred afterwards. It took me over a month according to my journals to really wrap my head around what was happening. In early October, walking through a parc inhabited by some of my favourite elms[^1], a few things clicked. My biggest question about this entire situation, _why on earth would a goddess of violence and battle and death want anything to do with me_, started to feel a little less threatening. Why wouldn’t a battle goddess want something to do with me? As someone who has historically found it very hard to define my boundaries and protect myself, I’ve been beat down by circumstance, institutions, conflicts and abuse in professional situations as well as interpersonal ones. Perhaps the guidance of a goddess as brave, as unapologetic, and as relentless as Cathubodua would actually be incredibly helpful. And, crucially, there were strong signs that Cathubodua was here to give a particular sort of guidance. Though I am not a fighter with my fists, my writing is where I come alive and feel my most ambitious and my most confident. With my writing, I fight. I fight to be understood at the most basic level. But sometimes, I also use my writing to fight for causes much larger than just myself. When life has me up against the wall, confronting the blank page one more time is often all I can do to fight back against despair. It is not an exaggeration to say that writing has kept me alive.
 
