@@ -81,7 +81,7 @@ minima:
 # show_excerpts: true
 
 # Specifies how many items should be displayed per page
-paginate: 5
+paginate: 10
 paginate_path: "/posts/page:num/"
 
 # Exclude from processing.
