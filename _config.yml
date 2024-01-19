@@ -34,6 +34,12 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
 
+header_pages:
+  - about.markdown
+  - bookhoard.markdown
+  - bloghoard.markdown
+  - microblog.markdown
+
 # To display post-excerpts on the Home Page
 # show_excerpts: true
 
