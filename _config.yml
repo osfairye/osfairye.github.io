@@ -22,8 +22,8 @@ title: Osfairy
 email: osfairye@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Lórien's various scribbles on gallo-germanic polytheism and witchery. 
-# baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://osfairy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://osfairye.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  osfairye
 instagram_username: osfairy
