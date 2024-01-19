@@ -21,8 +21,7 @@
 title: Osfairy
 email: osfairye@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This site hosts Lórien's various scribbles on gallo-germanic polytheism and witchery.
-  Lórien can also be found on the Skíðblaðnir and Toutâ Galation Discords, as well as on Pagan.plus. 
+  Lórien's various scribbles on gallo-germanic polytheism and witchery. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "osfairy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
