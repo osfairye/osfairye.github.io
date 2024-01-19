@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Polytheist Practices & Thought
+title: Blogroll
 permalink: /bloghoard/
 ---
 
-Blogs on heathenry, witchcraft, animist, religious reconstruction by real people, chronicling living practices and the beginnings of new traditions.
+Blogs on heathenry, witchcraft, animist, religious reconstruction by real people, chronicling living practices and sometimes the beginnings of new traditions.
 
 - [Bones’s Lazy Heathenry](https://lazyheathen.wordpress.com/)—_a Norse Heathen in the 21st century_
 - [Sigroni](https://sigroni.wordpress.com/)
