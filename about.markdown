@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About Lórien Gaesorix Osfairy
+title: About
 permalink: /about/
 ---
 
-Lórien (or Lórien Gaesorix Osfairy) is the nom de plume of a city-dwelling, settler animist and witch who is exploring gallo-germanic polytheism and other continental heathenries. I use they/their/them pronouns.
+**Lórien Gaesorix Osfairy** (mostly I just go by Lórien) is the *nom de plume* of a city-dwelling, settler animist and witch who is exploring gallo-germanic polytheism and other continental heathenries. I use they/their/them pronouns.
 
 I have been developing, since 2021, a reconstructed religious framework affectionately called Orchardcraft based on my explorations of Continental Germanic Heathenry and Gallo-Roman Polytheism.
 
