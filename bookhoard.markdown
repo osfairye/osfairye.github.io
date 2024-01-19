@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Polytheist Blogs
+title: Book Hoard
 permalink: /bookhoard/
 ---
 
-Here are some of the texts that have informed my thinking and my practice. Note that does not mean every book, article, or bit of writing on this list is wholeheartedly endorsed; there are a few of these which I've kept here because they contain jumping off points that I'm interested in, and there may not be a ton of existing literature covering the topic in question.
+Here are some of the texts that have informed my thinking and my practice. **Note that does not mean everything on this list is wholeheartedly endorsed;** there are a few things which I've kept because they cover topics that I'm interested in, and there just is not a ton of existing literature on the topic in question.
 
-I will add to this list bit by bit as my reading continues, feel free to bookmark this page and return.
+I will add to this list bit by bit as my reading continues. Feel free to bookmark this page, and return periodically.
 
 ---
 
