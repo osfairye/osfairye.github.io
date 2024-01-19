@@ -8,8 +8,6 @@ Here are some of the texts that have informed my thinking and my practice. **Not
 
 I will add to this list bit by bit as my reading continues. Feel free to bookmark this page, and return periodically.
 
----
-
 ## Articles
 
 * [Decolonization Is Not A Metaphor](https://jps.library.utoronto.ca/index.php/des/article/view/18630) by Eve Tuck and K. Wayne Yang (2012), " Because settler colonialism is built upon an entangled triad structure of settler-native-slave, the decolonial desires of white, non-white, immigrant, postcolonial, and oppressed people, can similarly be entangled in resettlement, reoccupation, and reinhabitation that actually further settler colonialism."
