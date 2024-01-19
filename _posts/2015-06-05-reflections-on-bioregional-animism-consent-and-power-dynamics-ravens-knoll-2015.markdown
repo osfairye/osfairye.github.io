@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Reflections on Bioregional Animism, Consent and Power Dynamics (Raven’s Knoll 2015)"
 date:   2015-06-05 11:45:42 -0500
 categories: jekyll update
 ---
-
-# Reflections on Bioregional Animism, Consent and Power Dynamics (Raven’s Knoll 2015)
 
 When I first encountered magic, it was the seductive appeal of might and agency that first caught my attention. It’s about power. We crave it, we want it, we need it. The intricacies, oddities and quirks of the craft are what sustained my fascination after the initial coup de foudre, but undoubtedly, looking back at my young self, still very much a child, I wanted to live and breathe magic because it was power.
 
