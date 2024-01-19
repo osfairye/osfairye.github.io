@@ -1,2 +1,2 @@
 # osfairye.github.io
-Blog
+Jekyll blog for osfairy.github.io. 
