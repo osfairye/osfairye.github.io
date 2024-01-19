@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dirona's Crown"
+title: "Đirona's Crown"
 date: 2022-03-07 11:45:42 -0500
 categories: poetry
 ---
