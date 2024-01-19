@@ -32,13 +32,14 @@ instagram_username: osfairy
 theme: minima
 plugins:
   - jekyll-feed
-  - paginate
+  - jekyll-paginate
 
 # To display post-excerpts on the Home Page
 # show_excerpts: true
 
 # Specifies how many items should be displayed per page
 paginate: 5
+paginate_path: "/posts/page:num/"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
