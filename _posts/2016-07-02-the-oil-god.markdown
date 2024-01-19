@@ -2,7 +2,7 @@
 layout: post
 title:  "The Oil God"
 date:   2016-07-02 11:45:42 -0500
-categories: animism holocene
+categories: blog
 ---
 
 A friend of mine once described the 1992 children’s movie <i><a href="https://en.wikipedia.org/wiki/FernGully:_The_Last_Rainforest" target="_blank">Ferngully</a></i> as the perfect storm of nineties children’s animation and early ecocritical film consciousness. The film, for those of you who never saw it, has a relatively strong environmental message for a children's movie, and an impressive voice actor cast featuring not only Robin Williams, but also a singing Tim Curry in the role of the film’s villain “Hexxus”: a primordial creature of ooze and malice.

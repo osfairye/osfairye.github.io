@@ -2,7 +2,7 @@
 layout: post
 title:  "Tread Light and Run Through The Fire"
 date:   2019-06-06 11:45:42 -0500
-categories: witchcraft ravens-knoll animism
+categories: blog
 ---
 
 I’ve been having recurring dreams since I was about 20 years old of a black dog following me and killing those closest to me. She stalks me and my loved ones for days, feral, blood dripping down her snout, unstoppable. I always woke up shaking or crying after those dreams. She always succeeded.

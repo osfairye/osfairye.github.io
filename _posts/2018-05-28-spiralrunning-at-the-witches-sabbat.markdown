@@ -2,7 +2,7 @@
 layout: post
 title:  "Spiralrunning at the Witches Sabbat"
 date:   2018-05-28 11:45:42 -0500
-categories: witchcraft ravens-knoll animism
+categories: blog
 ---
 
 The last leg of the drive to Raven’s Knoll occurred in some of the thickest fog I’ve ever seen outside of the coast of Nova Scotia, and we could barely see three feet ahead of the windshield. I told my partner I’d blow the fog away, and he responded that he doubted my otherworldly abilities go that far. I teased him that I found his lack of faith in the force disturbing, just before I checked in with my breath, bringing my focus to every exhale. The fog lifted for brief stretches, a veil scattering the light from the car’s high beams which my partner flicked on and off. I suddenly announced, though I couldn’t see for shit through the fog: “The Knoll is right here on our left!” startling my driving partner and our friend O riding with us in the backseat. We had to pull a U-turn to double back to the entrance, and O asked me how I could be sure this was the place, as we could not see the sign that usually heralded the Knoll’s entryway. For lack of better words, I just did.

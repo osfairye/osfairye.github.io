@@ -2,7 +2,7 @@
 layout: post
 title:  "Five Witch Comrades on The Mountainside"
 date:   2017-04-27 11:45:42 -0500
-categories: witchcraft animism
+categories: blog
 ---
 
 “How are everyone’s shoes?” I wonder, looking at my four witch comrades.

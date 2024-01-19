@@ -2,7 +2,7 @@
 layout: post
 title:  "On discernment, discipline, mental illness, and witchcraft"
 date:   2019-11-20 11:45:42 -0500
-categories: witchcraft animism
+categories: blog
 ---
 
 I’ve been having a tough time with witchcraft lately.
