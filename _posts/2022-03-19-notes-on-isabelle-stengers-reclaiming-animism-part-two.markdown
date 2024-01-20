@@ -9,7 +9,7 @@ categories: blog
 > 
 > André Breton, Nadja, (1964) p.9 
 
-Welcome to the second part (out of a planned three, but now likely four?) of a series of blog posts chronicling my current rereading of Isabelle Stengers’ salient and fascinating essay, “Reclaiming Animism.” [The first part of this series can be read here](/2022/03/12/notes-on-isabelle-stengers-reclaiming-animism-part-one.html) — I highly recommend you read it first, not only to understand my goals for this project, but because otherwise the following might make little sense!
+Welcome to the second part (out of a planned three, but now likely four?) of a series of blog posts chronicling my current rereading of Isabelle Stengers’ salient and fascinating essay, “Reclaiming Animism.” [The first part of this series can be read here](/blog/2022/03/12/notes-on-isabelle-stengers-reclaiming-animism-part-one.html) — I highly recommend you read it first, not only to understand my goals for this project, but because otherwise the following might make little sense!
 
 I am working from a much-loved PDF version I obtained from e-flux #36 in July 2012, hence my page notations might be obscure. [The text is publicly available in full here.](https://www.e-flux.com/journal/36/61245/reclaiming-animism/)
 

@@ -58,7 +58,7 @@ But I’ve been writing for hours, my candle is nearly out, and it is time to lo
 
 Thank you in particular to Mori Ualetikantalon from Toutâ Galation for sparking this adventure with your pertinent comments and questions. 
 
-→ [Update 2022/03/19: The second blog post in this series is out now!]()
+→ [Update 2022/03/19: The second blog post in this series is out now!](/blog/2022/03/19/notes-on-isabelle-stengers-reclaiming-animism-part-two.html)
 
 ---
 
