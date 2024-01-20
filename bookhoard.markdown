@@ -11,7 +11,8 @@ I will add to this list bit by bit as my reading continues. Feel free to bookmar
 ## Articles
 
 * [Decolonization Is Not A Metaphor](https://jps.library.utoronto.ca/index.php/des/article/view/18630) by Eve Tuck and K. Wayne Yang (2012), " Because settler colonialism is built upon an entangled triad structure of settler-native-slave, the decolonial desires of white, non-white, immigrant, postcolonial, and oppressed people, can similarly be entangled in resettlement, reoccupation, and reinhabitation that actually further settler colonialism."
-* [Reclaiming Animism](https://www.e-flux.com/journal/36/61245/reclaiming-animism/) by Isabella Stengers (2012), "Reclaiming means recovering what we have been separated from, but not in the sense that we can just get it back. Recovering means recovering from the very separation itself, regenerating what this separation has poisoned." – *[Some of my own notes on this paper](https://osfairy.com/tag/isabelle-stengers/)*
+* [Reclaiming Animism](https://www.e-flux.com/journal/36/61245/reclaiming-animism/) by Isabella Stengers (2012), "Reclaiming means recovering what we have been separated from, but not in the sense that we can just get it back. Recovering means recovering from the very separation itself, regenerating what this separation has poisoned."
+     * *[Some of my own notes on this paper](/blog/2022/03/12/notes-on-isabelle-stengers-reclaiming-animism-part-one.html), including [a second part](/blog/2022/03/19/notes-on-isabelle-stengers-reclaiming-animism-part-two.html)*
 * [Odin and Merlin, Threefold Death & The World Tree](https://www.jstor.org/stable/25735286?seq=1#metadata_info_tab_contents) by Lawrence Eson (2010)
 
 ## Books
@@ -26,8 +27,10 @@ I will add to this list bit by bit as my reading continues. Feel free to bookmar
 
 ### Ancient Gaul & France (Legends & Histories)
 
-* [Les druides, des philosophes chez les Barbares](https://www.google.ca/books/edition/Les_druides/enT3rQEACAAJ?hl=fr) by Jean-Louis Brunaux (2015) – Some notes on the book
-* Les religions gauloises by Jean-Louis Brunaux (2020) – Some notes on this book
+* [Les druides, des philosophes chez les Barbares](https://www.google.ca/books/edition/Les_druides/enT3rQEACAAJ?hl=fr) by Jean-Louis Brunaux (2015)
+    * *[Some notes on this book](/blog/2021/09/23/druides-philosophes-chez-les-barbares-part-1.html)*
+* Les religions gauloises by Jean-Louis Brunaux (2020)
+    * *[Some notes on this book](/blog/2022/08/27/gaulish-religion-notes.html)*
 
 ### The British Isles: England, Wales, Cornwall, Scotland (Legends & Histories)
 
@@ -42,7 +45,8 @@ I will add to this list bit by bit as my reading continues. Feel free to bookmar
 
 ### Reconstruction
 
-Ancient Fire by Segomâros Widugeni (2018) – Some notes on the book
+* Ancient Fire by Segomâros Widugeni (2018)      
+    * *[Some notes on the book](/blog/2021/10/18/notes-on-ancient-fire-by-segomaros-widugeni-2018.html)*
 
 ### Politics
 
