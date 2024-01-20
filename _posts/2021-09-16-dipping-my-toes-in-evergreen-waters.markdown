@@ -3,6 +3,7 @@ layout: post
 title:  "Dipping My Toes In Evergreen Waters"
 date:   2021-09-16 11:45:42 -0500
 categories: blog
+tags: orchardcraft
 ---
 
 > How ridiculous and what a stranger he is who is surprised at anything that happens in life. — Marcus Aurelius

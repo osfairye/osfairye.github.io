@@ -3,6 +3,7 @@ layout: post
 title:  "Resurrection"
 date:   2021-09-03 11:45:42 -0500
 categories: blog
+tags: orchardcraft
 ---
 
 It’s been a long while since I last updated, and my last meandering post left it on kind of a dark note. I’ve got to admit, not long afterwards, I did end up dismantling all my physical shrines in my home and stored them away until finally, this last week, I took a look at everything and reassessed.

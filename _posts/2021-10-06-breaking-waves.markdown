@@ -3,6 +3,7 @@ layout: post
 title: "Breaking Waves"
 date: 2021-10-06 11:45:42 -0500
 categories: blog
+tags: orchardcraft
 ---
 
 For years, my practice with regards to the spirits has focused almost exclusively on spirits of place (genius loci). I called myself a bioregional animist or a city animist — or just an animist, honestly — because I chiefly seemed to surround myself with non-anthropomorphized spirits.
@@ -11,7 +12,7 @@ For years, my practice with regards to the spirits has focused almost exclusivel
 
 There are also some other personal reasons I felt like I did not want to dive too deeply into creating relationships with the gods. I will touch upon them briefly here:
 
-When I was younger, I was told a story about a fellow hedge-witch’s oathing to Carnonos (Cernunnos) that went terribly, terribly, _terribly_wrong. I already had a general fear of making promises because the idea of breaking a promise filled me with so much anxiety. None of this helped with my more general apprehension towards adopting any kind of overtly gods-based religious structure due to my upbringing, mostly out of a fear of failure and stagnation.
+When I was younger, I was told a story about a fellow hedge-witch’s oathing to Carnonos (Cernunnos) that went terribly, terribly, _terribly_ wrong. I already had a general fear of making promises because the idea of breaking a promise filled me with so much anxiety. None of this helped with my more general apprehension towards adopting any kind of overtly gods-based religious structure due to my upbringing, mostly out of a fear of failure and stagnation.
 
 There is, however, another aspect that bears mentioning, which relates back to my own experiences with the numinous. I seem to have an affinity for _feeling_ genius loci or anything spiritual having to do with place — the mountain I was born on, the great river I live by, the criss-crossing network of alleyways, building, and roads in my part of the city. For a long time, every time I would attend (chiefly Wiccan) rituals run by friends for their gods, I couldn’t feel _anything_. It was especially tepid compared to the feelings I’d felt as a child lighting candles in Cathedrals for loved ones at the statues for saints. Something wasn’t quite right there. 
 

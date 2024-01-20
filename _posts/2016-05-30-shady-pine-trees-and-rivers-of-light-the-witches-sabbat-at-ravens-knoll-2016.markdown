@@ -3,6 +3,7 @@ layout: post
 title:  "Shady pine trees and rivers of light: The Witches Sabbat at Raven’s Knoll 2016"
 date:   2016-05-30 11:45:42 -0500
 categories: blog
+tags: ravens-knoll
 ---
 
 The fire, the conifers, the constant chorus of cicadas, frogs, and toads. The pine needles that coat the forest floor, a soft tapestry soaked in _cedrus deodara_ that protects and nourishes. I learned long ago that many conifers do indeed drop their needles (and sap), like many deciduous trees, and that this act is both aggressive, and protective. The needles soak the ground in pine essential oils, changing the acidity levels of the soil and killing harmful microbes and bacteria. Plants that cannot stand the pH of the pine needles will not grow here, and will be killed, but many other plants and creatures flourish here, protected by the pines that reach upwards and onwards for the sun.

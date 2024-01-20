@@ -3,6 +3,7 @@ layout: post
 title: "On Slowing Down, Way Down"
 date: 2022-04-22 11:45:42 -0500
 categories: blog
+tags: orchardcraft
 ---
 
 Every now and then I find myself falling into the same old trap of urgency. The _I shoulds_ and _I needs_ become confused and pressing. I find myself despairing at the piles of books and scholarly articles downloaded, the endless notes piling up, the outlines that never make it past a few scant intentions. 
