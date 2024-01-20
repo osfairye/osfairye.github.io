@@ -3,6 +3,7 @@ layout: post
 title:  "Notes on Jean-Louis Brunaux’s Les druides des philosophes chez les Barbares (Part 1)"
 date:   2021-09-23 11:45:42 -0500
 categories: blog
+tags: book-notes
 ---
 
 I picked up Jean-Louis Brunaux’s _[Les druides: des philosophes chez les Barbares](https://www.google.ca/books/edition/Les_druides/enT3rQEACAAJ?hl=fr)_ on accident at the national library here in the city (I was there for completely different kinds of books, you know how it is). The book, however, is a smash hit, and has ended up being hugely helpful. In particular, it’s helped with the clarifying and linking together of historical concepts that have been floating around in my mind for decades — and often, while I could intuit that there were links missing between all these notions, I lacked the education and the experience to explain why. Enter Brunaux, who brings his considerable expertise and sassy historian wit to the stage.

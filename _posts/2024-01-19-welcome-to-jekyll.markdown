@@ -3,6 +3,7 @@ layout: post
 title:  "Housekeeping Notes: Welcome to Jekyll!"
 date:   2024-01-19 11:45:42 -0500
 categories: blog
+tag: web-housekeeping
 modified_date:   2024-01-20 06:45:42 -0500
 ---
 

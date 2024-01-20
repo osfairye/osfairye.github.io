@@ -3,6 +3,7 @@ layout: post
 title: "Housekeeping Notes"
 date: 2023-01-17 11:45:42 -0500
 categories: blog
+tags: web-housekeeping
 ---
 
 

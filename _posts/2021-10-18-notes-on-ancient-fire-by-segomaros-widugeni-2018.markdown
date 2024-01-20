@@ -3,6 +3,7 @@ layout: post
 title: "Notes on Ancient Fire by Segomâros Widugeni (2018)"
 date: 2021-10-18 11:45:42 -0500
 categories: blog
+tags: book-notes
 ---
 
 I picked up _Ancient Fire, An Introduction to Gaulish Celtic Polytheism_, by Segomâros Widugeni on a whim, and I have to say I enjoyed reading the book. Widugeni’s book is 1) blissfully concise, 2) clear, and 3) is full of citations. As people might intuit from other posts on this blog, citations and citational politics/ethics are _very_ important to me. 

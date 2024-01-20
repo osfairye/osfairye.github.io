@@ -3,6 +3,7 @@ layout: post
 title: "Notes on Isabelle Stengers’ “Reclaiming Animism” (Part One)"
 date: 2022-03-12 11:45:42 -0500
 categories: blog
+tags: book-notes
 ---
 
 > That – before the field become solely map memory  

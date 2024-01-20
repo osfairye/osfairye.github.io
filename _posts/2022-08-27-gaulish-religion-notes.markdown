@@ -2,8 +2,8 @@
 layout: post
 title: "A few notes on the theorized original characteristics of the Gaulish religion(s)"
 date: 2022-08-27 11:45:42 -0500
-categories: blog
-tags: orchardcraft
+categories: blog 
+tags: orchardcraft book-notes
 ---
 I’ve been slowly making my way through _Les religions gauloises_ by Jean-Louis Brunaux over the past several months. I really loved reading _Les druides_, which I had to return to the national library but am hoping to pick back up again soon. _Les religions gauloises_ similarly does not disappoint. 
 

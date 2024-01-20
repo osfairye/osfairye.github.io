@@ -3,6 +3,7 @@ layout: post
 title:  "Notes on Chapter 1 of Aidan Wachter’s Six Ways Approaches & Entries for Practical Magic"
 date:   2019-06-20 11:45:42 -0500
 categories: blog
+tags: book-notes
 ---
 
 So, as I mentioned on Instagram, I’ve been meaning to work through some books and I decided to create these “let’s read” (get it?) to motivate myself to engage with these works in a thoughtful way, and maybe generate something useful in the process.

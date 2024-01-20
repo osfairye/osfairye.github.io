@@ -2,7 +2,7 @@
 layout: post
 title: "Notes on Isabelle Stengers’ “Reclaiming Animism” (Part Two)"
 date: 2022-03-19 11:45:42 -0500
-categories: blog
+categories: blog book-notes
 ---
 
 > Qui suis-je? Si par exception je m’en rapportais à un adage: en effet pourquoi tout ne reviendrait-it pas à savoir qui je « hante »? Je dois avouer que ce dernier mot m’égare, tendant à établir entre certains êtres et moi des rapports plus singuliers, moins évitables, plus troublants que je ne pensais. _Who am I? What if, just this once, I referred to an adage: indeed why would not everything come back to the knowledge of who I am “haunting”? I must admit that this last word loses me, as it tends to establish between certain beings and myself relationships more singular, less avoidable, and more troubling than I would have expected._
