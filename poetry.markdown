@@ -5,7 +5,7 @@ permalink: /poetry/
 categories: poetry
 ---
 
-List of all the poetry collected on this site.
+List of all the posts categorized as <strong>poetry</strong> on this site.
 
 <ul>
 

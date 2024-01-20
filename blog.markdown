@@ -5,7 +5,7 @@ permalink: /blog/
 categories: blog
 ---
 
-List of all the posts categorized as "blog" posts on this site.
+List of all the posts categorized as <strong>blog</strong> posts on this site.
 
 <ul>
 
