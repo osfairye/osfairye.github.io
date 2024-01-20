@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Poetry
-permalink: /poetry/
-categories: poetry
+title: Blog
+permalink: /blog/
+categories: blog
 ---
 
-List of all the poetry collected on this site.
+List of all the posts categorized as "blog" posts on this site.
 
 <ul>
 
