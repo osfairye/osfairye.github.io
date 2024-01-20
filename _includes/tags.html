@@ -1,0 +1,5 @@
+{% if page.tags.size > 0 %}
+  <span class="post-meta">; tagged :
+  {{ page.tags | sort | join: ", " }}
+  </span>
+{% endif %}

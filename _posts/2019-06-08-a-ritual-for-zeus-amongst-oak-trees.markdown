@@ -2,7 +2,7 @@
 layout: post
 title:  "A Ritual for Zeus Amongst Oak Trees"
 date:   2019-06-08 11:45:42 -0500
-categories: blog
+categories: blog ritual-notes
 ---
 
 I have a friend who does monthly libations to the Greek gods and goddesses and when possible, I try to join. Not long ago I joined him by the river to libate Artemis, and today I joined him in a grove in the forest at the top of a mountain, amongst some of the oldest oak trees in the city, to call Zeus and libate him.

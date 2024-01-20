@@ -3,7 +3,7 @@ layout: post
 title: "A Shrine for Cathubodua"
 date: 2022-03-13 11:45:42 -0500
 categories: blog poetry
-tags: orchardcraft
+tags: orchardcraft ritual-notes
 ---
 
 There are few things I love more than taking a beautiful, decorated wooden box, and hiding treasures inside, much like a magpie might. Perhaps this is my Catholic upbringing finally shining through me with this little project. I feel proud to share with you all my writing shrine to Cathubodua.
