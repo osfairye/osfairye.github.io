@@ -15,3 +15,4 @@ Blogs on heathenry, witchcraft, animist, religious reconstruction by real people
 - [Wandering BlackBird (Sian)](https://wanderingblackbird.wordpress.com/)—_Heathen & folklore-inspired witchcraft_
 - [Thought Emulsion](https://thoughtemulsion.wordpress.com/)—_regionalised, syncretic Anglo-Saxon heathenry_
 - [Thunder Witch of the Woods](https://thunderwitchofthewoods.wordpress.com/)—_A Germanic and Slavic Polytheist Blog_ 
+- [Of Axe and Plough](https://axeandplough.com)—*Anglo-Saxon Heathenry and Roman Polytheism*
