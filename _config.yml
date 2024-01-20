@@ -36,9 +36,9 @@ plugins:
   - jekyll-paginate
 
 header_pages:
+  - about.markdown
   - blog.markdown
   - poetry.markdown
-  - about.markdown
   - bookhoard.markdown
   - bloghoard.markdown
   - microblog.markdown
