@@ -5,7 +5,7 @@ date: 2022-03-12 11:45:42 -0500
 categories: blog
 ---
 
-That – before the field become solely map memory  
+> That – before the field become solely map memory  
 > In some archive of some architect’s screen  
 > I might possess it or it possess me  
 > Through its night dew, its moon white caul  

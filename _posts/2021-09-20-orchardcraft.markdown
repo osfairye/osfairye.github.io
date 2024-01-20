@@ -5,7 +5,7 @@ date:   2021-09-20 11:45:42 -0500
 categories: blog
 ---
 
-What do I want out of my practice)?
+What do I want out of my practice?
 
 I think it’s easiest to answer with an example. 
 
