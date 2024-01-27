@@ -37,6 +37,7 @@ plugins:
 
 header_pages:
   - about.markdown
+  - spirits.markdown
   - blog.markdown
   - poetry.markdown
   - bookhoard.markdown
