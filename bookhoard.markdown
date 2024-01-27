@@ -62,7 +62,6 @@ Pagan Anarchism by Christopher Scott Thompson (2016)
 ### Reconstruction 
 
 * [A brief primer on Reconstruction](https://www.reddit.com/r/heathenry/comments/dit35c/a_brief_primer_on_reconstruction_how_to_do_it_and/): How to do it and innovate within its structure by Selgowiros (2019)
-* [The Longship](https://thelongship.net/)
 
 ### Witchcraft
 
