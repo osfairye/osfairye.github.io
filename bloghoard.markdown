@@ -24,7 +24,7 @@ Sites that inspire me, shake the cobwebs from between my ears, etc. Interested i
 ### [The Longship](https://thelongship.net/)
 > This website is just one of many possible beginner’s guides for a new Heathen, and is based on the style of Heathenry taught by established online communities and websites, in particular, Lārhūs Fyrnsida. (...) Heathenry is a revivalist religion seeking to bring the practice of the ancient Germanic peoples into the present day. In simplest terms, it uses information inferred or represented in scholarship to form the foundation of a modern, polytheistic religious tradition.
 
-### [Toutâ Galation](https://toutagalation.org/basics-of-gaulish-polytheism/
+### [Toutâ Galation](https://toutagalation.org/basics-of-gaulish-polytheism/)
 > Toutâ Galation is an organization dedicated to growth, promotion, and revival of Gaulish Polytheism as a living religious practice.
 
 ### [Sidjus Reidarje Sauilis](https://thesunriders.wordpress.com)
