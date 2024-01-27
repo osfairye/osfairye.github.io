@@ -12,6 +12,6 @@ My witchcraft is probably best described as herbalism-meets-hedgewitchery, inspi
 
 As a settler and descendant of immigrants, I have a responsibility to commit to anti-racist and anti-colonial practices in my relationship with people on this land. As an animist and witch who came to their practice in the early 2000s, I absolutely have to commit to decolonizing my practice in the face of colonialism, imperialism, war, capitalism, poverty, and the ongoing human-created climate catastrophe.
 
-This site is an archive of my public writings on witchcraft and animism since 2015, much of it very rough. Many of the older posts don’t represent my current outlook, but I consider them useful to keep around as perspective on my own journey and how far I’ve come.
+This site is not only a current record of where I'm at but also functions as an archive of most of my public writings on witchcraft and animism since 2015. Many of the older posts don’t really represent my current outlook, but I consider them useful to keep around as perspective on where I’ve wandered.
 
-Enjoy the scribbles for what they are: experiments, fumblings in the dark, and journeys of their own.
+Enjoy the scribbles and notes for what they are: experiments and journeys of their own.
