@@ -12,7 +12,7 @@ These are some of the spirits I venerate on a regular basis (at least once a yea
 
 ## Abelion
 
-> Et à Abelion, vénérable esprit des pommes et des vergers, ancien Abellio magnifique, dieu Soleil, de Beauté et de Bonté, vous qui êtes parfois nommé Abelio ou Abelionni ou même Belliou, qui a parfois été appelé *Belenos norique* par les Gaulois et que les Romains ont identifié avec Apollon, dieu mystérieux de mes ancêtres, j’espère que vous nous accorderez un temps magnifique pour la cueillette des fruits dans ce verger, je vous salue, Abelion!
+> Abelion, venerable spirit of apples and orchards, magnificent Abellio, sun god, of Beauty and Goodness, you who are sometimes named Abelio or Abelionni or even Belliou, who was sometimes called *Belenos norique* by the Gauls and whom the Romans identified with Apollo, mysterious god of my ancestors, I hope you'll grant us wonderful weather for picking fruit in this orchard, I adore you, Abelion!
 
 ## Cathubodua
 * [A Shrine for Cathubodua](/blog/poetry/2022/03/13/a-shrine-for-cathubodua.html)
