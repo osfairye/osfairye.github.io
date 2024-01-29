@@ -3,7 +3,7 @@ layout: post
 title:  "Petitioning Abellion For His Favour at the Apple Orchard"
 date:   2024-01-29 09:30:05 -0500
 categories: blog
-tag: ritual-notes
+tag: ritual-notes, orchardcraft
 # modified_date:   2024-01-29 09:30:05 -0500
 ---
 
