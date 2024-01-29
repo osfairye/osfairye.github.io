@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Petitioning Abellion For His Favour at the Apple Orchard"
-date:   2024-01-29 09:30:05 -0500
+title: "Petitioning Abellion For His Favour at the Apple Orchard"
+date: 2024-01-29 09:30:05 -0500
 categories: blog
-tag: ritual-notes orchardcraft
-# modified_date:   2024-01-29 09:30:05 -0500
+tag: orchardcraft ritual-notes
+modified_date: 2024-01-29 09:46:57 -0500
 ---
 
 <em>I am currently writing the tests to move from the rank of Student to Initiate in Toutâ Galation. The following is adapted from an answer I prepared for this test. I first briefly wrote about this ritual on this very blog in September 2021: "<a href="/blog/2021/09/20/orchardcraft.html">Orchardcraft</a>."</em>
