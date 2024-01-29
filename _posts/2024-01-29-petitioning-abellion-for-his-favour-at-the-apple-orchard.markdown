@@ -7,7 +7,7 @@ tag: ritual-notes, orchardcraft
 # modified_date:   2024-01-29 09:30:05 -0500
 ---
 
-<em>I am currently writing the tests to move from the rank of Student to Initiate in Toutâ Galation. The following is adapted from an answer I prepared for this test. I first briefly wrote about this ritual on this very blog in September 2021: "<a href="/blog/2024/01/29/petitioning-abellion-for-his-favour-at-the-apple-orchard.html">Orchardcraft</a>."</em>
+<em>I am currently writing the tests to move from the rank of Student to Initiate in Toutâ Galation. The following is adapted from an answer I prepared for this test. I first briefly wrote about this ritual on this very blog in September 2021: "<a href="/blog/2021/09/20/orchardcraft.html">Orchardcraft</a>."</em>
 
 One of my favourite autumn rituals is the following, which I've done nearly every year since 2021 in the fall, right before apple picking at an orchard on a small mountain outside my city. This ritual asks for Abellion's[^1] favour. I bring several offerings, but my usual offering is labrador tea sweetened with a very generous amount of honey. These offerings are being poured into the earth at the base of apple trees, so their biodegradability and ecological unobtrusiveness are of paramount importance — labrador tea is a native plant to where I live; and honey water can stimulate microbial activity in the earth as well as root growth. Because the mountain where the orchard is on unceded Indigenous land, I avoid offering alcohol in unfamiliar places, especially as I currently do not have ethically-sourced tobacco at the ready to offer to the spirits and to the rightful ancestors of these lands.
 
