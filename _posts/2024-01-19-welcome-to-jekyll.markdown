@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Housekeeping Notes: Welcome to Jekyll!"
-date:   2024-01-19 11:45:42 -0500
+title: "Housekeeping Notes: Welcome to Jekyll!"
+date: 2024-01-19 11:45:42 -0500
 categories: blog
 tag: web-housekeeping
-modified_date:   2024-01-20 06:45:42 -0500
+modified_date: 2024-01-20 06:45:42 -0500
 ---
 
 As of January 19, 2024, Osfairy has migrated to a free spot on Github and the blog posts are powered by Jekyll. Frankly, Wordpress was very expensive and beyond what I actually needed. Between paying for a domain name and paying for Wordpress, I'd prefer to spend that money on a domain name. So I cancelled Wordpress, and spent the large part of the day migrating from Wordpress to Jekyll, dusting off some wildly rusty web development skills. 
