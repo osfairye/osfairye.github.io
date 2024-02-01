@@ -13,7 +13,8 @@ List of all the posts categorized as <strong>blog</strong> posts on this site.
   <li><a href="{{ post.url }}" target="_self" draggable="false">
   	{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     {{ post.title }} ({{ post.date | date: date_format }})
-  </a></li>
+      </a> 
+  </li>
 {% endfor %}
 
 </ul>
