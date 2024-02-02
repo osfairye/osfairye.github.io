@@ -4,8 +4,16 @@ title: Polytheist Blogs
 permalink: /bloghoard/
 ---
 
-Blogs on heathenry, witchcraft, animist, religious reconstruction by real people, chronicling living practices and sometimes the beginnings of new traditions.
+## Articles
+### Reconstruction 
+* [A brief primer on Reconstruction](https://www.reddit.com/r/heathenry/comments/dit35c/a_brief_primer_on_reconstruction_how_to_do_it_and/): How to do it and innovate within its structure by Selgowiros (2019)
 
+### Witchcraft
+* [Witches Allegedly Stole Penises and Kept Them as Pets in the Middle Ages](https://www.vice.com/en/article/mbqjap/witches-allegedly-stole-penises-and-kept-them-as-pets-in-the-middle-ages) by Callie Beusman (2016)
+* [How Magic Helps Me Live With Pain And Trauma](https://web.archive.org/web/20181219224855/https://medium.com/the-establishment/how-magic-helps-me-live-with-pain-and-trauma-bd56dcea5db5) by Maranda Elizabeth (2016)
+
+## Blogs
+Blogs on heathenry, witchcraft, animist, religious reconstruction by real people, chronicling living practices and sometimes the beginnings of new traditions.
 - [Bones’s Lazy Heathenry](https://lazyheathen.wordpress.com/)—_a Norse Heathen in the 21st century_
 - [Cardinal](https://cardinalcreates.wordpress.com/)—_Norse Heathen devotee & poet_
 - [Cıbear-ḟoraoıs Sneaċta](https://cibearfhoraoissneachta.wordpress.com/)—_Wegaz Nurþerōn Marimarkōn and other musings_
@@ -18,7 +26,6 @@ Blogs on heathenry, witchcraft, animist, religious reconstruction by real people
 - [Wandering BlackBird (Sian)](https://wanderingblackbird.wordpress.com/)—_Heathen & folklore-inspired witchcraft_
 
 ## Traditions
-
 Sites that inspire me, shake the cobwebs from between my ears, etc. Interested in reconstruction in a polytheist context? Here's [this great post by Selgowiros from 2019](https://www.reddit.com/r/heathenry/comments/dit35c/a_brief_primer_on_reconstruction_how_to_do_it_and/) I recommend reading.
 
 ### [The Longship](https://thelongship.net/)
