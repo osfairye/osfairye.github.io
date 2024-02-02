@@ -50,7 +50,7 @@ I will add to this list bit by bit as my reading continues. Feel free to bookmar
 
 ### Politics
 
-Pagan Anarchism by Christopher Scott Thompson (2016)
+* Pagan Anarchism by Christopher Scott Thompson (2016)
 
 ## Zines
 
